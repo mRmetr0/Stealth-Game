@@ -31,6 +31,7 @@ public class EnemyScript : MonoBehaviour
 
     private void Awake()
     {
+        //LOL
         if (viewDist <= 0) {
             viewDist = Mathf.Infinity;
         }
